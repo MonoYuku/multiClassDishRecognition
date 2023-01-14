@@ -19,7 +19,7 @@ You need:
 
 
 
-##Installing requirements
+## Installing requirements
 * With using Pip
 ```
 pip install -r requirements.txt
@@ -33,7 +33,7 @@ conda install --file requirements.txt
 
 
 
-##Dataset
+## Dataset
 The dataset has above 61 thousands of food images divided into 22 classes.
 <kbd><img src="./imgs/classes.jpg" alt="Classes"></kbd>
 
@@ -43,5 +43,5 @@ test data has 20% of all images, and the validation subset has the rest - 10% of
 
 
 
-##Results
+## Results
 
